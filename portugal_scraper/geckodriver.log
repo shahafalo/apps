@@ -1,0 +1,997 @@
+1659854290033	geckodriver	INFO	Listening on 127.0.0.1:53115
+1659854290471	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewS1tMl"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659854294363	Marionette	INFO	Marionette enabled
+1659854294373	Marionette	INFO	Listening on port 37681
+Read port: 37681
+WebDriver BiDi listening on ws://localhost:54309
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659854294952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewS1tMl/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54309/devtools/browser/4866839f-d8a0-448b-b557-adc5602e001e
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+1659854300794	Marionette	INFO	Stopped listening on port 37681
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659854349642	geckodriver	INFO	Listening on 127.0.0.1:43485
+1659854349649	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38417" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLye5Lu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659854350642	Marionette	INFO	Marionette enabled
+1659854350647	Marionette	INFO	Listening on port 45175
+Read port: 45175
+WebDriver BiDi listening on ws://localhost:38417
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659854350990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLye5Lu/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38417/devtools/browser/f2e3587d-223e-406a-a799-f7b6938fe01c
+1659854554066	geckodriver	INFO	Listening on 127.0.0.1:34861
+1659854554071	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48611" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIboaHo"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659854554950	Marionette	INFO	Marionette enabled
+1659854554954	Marionette	INFO	Listening on port 36815
+WebDriver BiDi listening on ws://localhost:48611
+Read port: 36815
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659854555295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIboaHo/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:48611/devtools/browser/89571164-43c7-4e8f-97c7-11c7dd1a47bb
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659854580736	Marionette	INFO	Stopped listening on port 36815
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659854584723	Marionette	INFO	Stopped listening on port 45175
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1659854648567	geckodriver	INFO	Listening on 127.0.0.1:56087
+1659854648572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40389" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile391oSh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659854649488	Marionette	INFO	Marionette enabled
+1659854649492	Marionette	INFO	Listening on port 42129
+WebDriver BiDi listening on ws://localhost:40389
+Read port: 42129
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659854649832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile391oSh/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40389/devtools/browser/adef9fc4-4c65-40e4-b6e9-fbe827776296
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659854660605	Marionette	INFO	Stopped listening on port 42129
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659854738742	geckodriver	INFO	Listening on 127.0.0.1:47883
+1659854738751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52113" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepLigSx"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659854739687	Marionette	INFO	Marionette enabled
+1659854739692	Marionette	INFO	Listening on port 46461
+WebDriver BiDi listening on ws://localhost:52113
+Read port: 46461
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659854740036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepLigSx/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52113/devtools/browser/42928b5b-8602-4f15-9ad8-0423e71c98e3
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659855587796	geckodriver	INFO	Listening on 127.0.0.1:41351
+1659855587807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50021" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoGlnGA"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659855589041	Marionette	INFO	Marionette enabled
+1659855589047	Marionette	INFO	Listening on port 39101
+WebDriver BiDi listening on ws://localhost:50021
+Read port: 39101
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659855589419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoGlnGA/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50021/devtools/browser/ba6a4457-ee03-416a-9fbd-7894cee66c9f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659855866299	Marionette	INFO	Stopped listening on port 39101
+1659862915171	geckodriver	INFO	Listening on 127.0.0.1:45403
+1659862915690	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49449" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEzt1YV"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659862918092	Marionette	INFO	Marionette enabled
+1659862918101	Marionette	INFO	Listening on port 42405
+Read port: 42405
+WebDriver BiDi listening on ws://localhost:49449
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659862918482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEzt1YV/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49449/devtools/browser/c5c891d7-d8d0-4dfc-af06-ed8530dd40a2
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659866413601	Marionette	INFO	Stopped listening on port 42405
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1659875094211	geckodriver	INFO	Listening on 127.0.0.1:58565
+1659875094219	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52505" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCLFeij"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659875095089	Marionette	INFO	Marionette enabled
+1659875095093	Marionette	INFO	Listening on port 43647
+WebDriver BiDi listening on ws://localhost:52505
+Read port: 43647
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659875095484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCLFeij/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52505/devtools/browser/16e5bf1e-11df-4e20-8250-95180d4b3a2c
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659875192265	geckodriver	INFO	Listening on 127.0.0.1:50071
+1659875192272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38253" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileB28d00"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659875193207	Marionette	INFO	Marionette enabled
+1659875193211	Marionette	INFO	Listening on port 43025
+WebDriver BiDi listening on ws://localhost:38253
+Read port: 43025
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659875193596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileB28d00/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38253/devtools/browser/48110ecf-bef2-43e8-9b6a-e6c6697953f2
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659875213578	geckodriver	INFO	Listening on 127.0.0.1:48483
+1659875213590	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37675" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKvf51D"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659875214568	Marionette	INFO	Marionette enabled
+1659875214572	Marionette	INFO	Listening on port 44137
+WebDriver BiDi listening on ws://localhost:37675
+Read port: 44137
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659875214917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKvf51D/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37675/devtools/browser/70f0d491-8a3e-4d21-9987-17772462d5e6
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659875487248	geckodriver	INFO	Listening on 127.0.0.1:32991
+1659875487256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45479" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGGeLK0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659875488861	Marionette	INFO	Marionette enabled
+1659875488866	Marionette	INFO	Listening on port 41129
+WebDriver BiDi listening on ws://localhost:45479
+Read port: 41129
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659875489221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGGeLK0/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:45479/devtools/browser/5127eb0d-3f8e-4f6f-8adb-cadbfcc38081
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659875500363	geckodriver	INFO	Listening on 127.0.0.1:39923
+1659875500372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39521" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLnwuwQ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659875501398	Marionette	INFO	Marionette enabled
+1659875501406	Marionette	INFO	Listening on port 36591
+WebDriver BiDi listening on ws://localhost:39521
+Read port: 36591
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659875501780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLnwuwQ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:39521/devtools/browser/143da4fb-d39d-40d6-9b8f-20e1703f4c48
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659875565948	geckodriver	INFO	Listening on 127.0.0.1:60435
+1659875565955	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58193" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilex5mXgr"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659875566861	Marionette	INFO	Marionette enabled
+1659875566865	Marionette	INFO	Listening on port 40149
+WebDriver BiDi listening on ws://localhost:58193
+Read port: 40149
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659875567257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilex5mXgr/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58193/devtools/browser/ffb1d950-bca8-4100-b41d-c2d7faa98788
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659875620215	geckodriver	INFO	Listening on 127.0.0.1:42133
+1659875620222	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48241" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLdSSZg"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659875621075	Marionette	INFO	Marionette enabled
+1659875621079	Marionette	INFO	Listening on port 42425
+WebDriver BiDi listening on ws://localhost:48241
+Read port: 42425
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659875621440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLdSSZg/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:48241/devtools/browser/be158905-8d01-43e1-843c-d65767673efc
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659875961577	geckodriver	INFO	Listening on 127.0.0.1:59713
+1659875961587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41713" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyN4Y49"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659875962544	Marionette	INFO	Marionette enabled
+1659875962548	Marionette	INFO	Listening on port 34443
+WebDriver BiDi listening on ws://localhost:41713
+Read port: 34443
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659875962933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyN4Y49/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41713/devtools/browser/27a1d7df-fec6-443a-867c-8ee03efb6711
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+1659876122026	geckodriver	INFO	Listening on 127.0.0.1:40287
+1659876122036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35605" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSjEUUy"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659876122906	Marionette	INFO	Marionette enabled
+1659876122910	Marionette	INFO	Listening on port 38587
+WebDriver BiDi listening on ws://localhost:35605
+Read port: 38587
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659876123302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSjEUUy/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:35605/devtools/browser/45e0fdb1-8ea1-4bbc-b4dc-4ebd1850676c
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659876421171	geckodriver	INFO	Listening on 127.0.0.1:49175
+1659876421181	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44601" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3oxtzc"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659876422104	Marionette	INFO	Marionette enabled
+1659876422109	Marionette	INFO	Listening on port 46841
+WebDriver BiDi listening on ws://localhost:44601
+Read port: 46841
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659876422498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3oxtzc/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44601/devtools/browser/58ea249e-cc73-427f-b20f-cf33c175ba7e
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659876447750	Marionette	INFO	Stopped listening on port 34443
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659876575645	geckodriver	INFO	Listening on 127.0.0.1:34119
+1659876575660	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60781" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDYdZZB"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659876576902	Marionette	INFO	Marionette enabled
+1659876576907	Marionette	INFO	Listening on port 44141
+WebDriver BiDi listening on ws://localhost:60781
+Read port: 44141
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659876577280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDYdZZB/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:60781/devtools/browser/cd8178ff-feae-4715-a9c4-4d751e3bcc24
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659876620040	geckodriver	INFO	Listening on 127.0.0.1:41517
+1659876620049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47139" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHxu9E9"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659876620972	Marionette	INFO	Marionette enabled
+1659876620976	Marionette	INFO	Listening on port 34793
+WebDriver BiDi listening on ws://localhost:47139
+Read port: 34793
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659876621363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHxu9E9/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47139/devtools/browser/25f8954d-3dc3-437e-b716-21f22e5937c5
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659876679734	geckodriver	INFO	Listening on 127.0.0.1:49509
+1659876679743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38015" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehsN7dF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659876680685	Marionette	INFO	Marionette enabled
+1659876680690	Marionette	INFO	Listening on port 34875
+WebDriver BiDi listening on ws://localhost:38015
+Read port: 34875
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659876681075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehsN7dF/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38015/devtools/browser/f18c9a6b-8a6d-40f2-9771-80a1065fe81b
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659877619248	geckodriver	INFO	Listening on 127.0.0.1:59861
+1659877619255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44467" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile71TgEr"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659877620386	Marionette	INFO	Marionette enabled
+1659877620390	Marionette	INFO	Listening on port 36127
+WebDriver BiDi listening on ws://localhost:44467
+Read port: 36127
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659877620829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile71TgEr/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44467/devtools/browser/cca31819-e179-45bb-acf9-36d2920e60ec
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659877724694	geckodriver	INFO	Listening on 127.0.0.1:59229
+1659877724704	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44431" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileraQdns"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659877725600	Marionette	INFO	Marionette enabled
+1659877725603	Marionette	INFO	Listening on port 37671
+Read port: 37671
+WebDriver BiDi listening on ws://localhost:44431
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659877726011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileraQdns/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44431/devtools/browser/74622919-ff1b-45e4-88af-6cdd0ac6f767
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+1659877791856	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+1659877806005	Marionette	INFO	Stopped listening on port 37671
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1659953930008	geckodriver	INFO	Listening on 127.0.0.1:38031
+1659953930018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41117" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile173Dlt"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659953931302	Marionette	INFO	Marionette enabled
+1659953931307	Marionette	INFO	Listening on port 35245
+WebDriver BiDi listening on ws://localhost:41117
+Read port: 35245
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659953931714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile173Dlt/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41117/devtools/browser/fb545a1a-9305-40b3-9336-0202de3d4751
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659953934245	Marionette	INFO	Stopped listening on port 35245
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659953957426	geckodriver	INFO	Listening on 127.0.0.1:34267
+1659953957430	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46027" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUoYBGd"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659953958415	Marionette	INFO	Marionette enabled
+1659953958419	Marionette	INFO	Listening on port 44733
+WebDriver BiDi listening on ws://localhost:46027
+Read port: 44733
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659953958804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUoYBGd/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:46027/devtools/browser/0be50a89-cdc5-48e9-ae07-c3487a1bfdc8
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+1659954029198	Marionette	INFO	Stopped listening on port 44733
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659954222855	geckodriver	INFO	Listening on 127.0.0.1:38367
+1659954222859	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59557" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileABmCss"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659954223699	Marionette	INFO	Marionette enabled
+1659954223703	Marionette	INFO	Listening on port 39119
+WebDriver BiDi listening on ws://localhost:59557
+Read port: 39119
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659954224099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileABmCss/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59557/devtools/browser/fe2119d0-100c-44c6-88f9-83d0585d9f51
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+1659954286988	Marionette	INFO	Stopped listening on port 39119
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1659954321214	geckodriver	INFO	Listening on 127.0.0.1:41057
+1659954321218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58361" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefnUpAF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659954322074	Marionette	INFO	Marionette enabled
+1659954322079	Marionette	INFO	Listening on port 43965
+WebDriver BiDi listening on ws://localhost:58361
+Read port: 43965
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659954322463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefnUpAF/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58361/devtools/browser/5d0731cd-bdc0-4291-9fa0-538d84659c94
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+1659954519125	geckodriver	INFO	Listening on 127.0.0.1:59245
+1659954519129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55011" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile99f5np"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659954520005	Marionette	INFO	Marionette enabled
+1659954520009	Marionette	INFO	Listening on port 37775
+WebDriver BiDi listening on ws://localhost:55011
+Read port: 37775
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659954520396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile99f5np/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55011/devtools/browser/0b29c937-70dd-4059-8572-38015f9a759e
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+1659954529769	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+1659954583922	Marionette	INFO	Stopped listening on port 37775
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1659954616528	geckodriver	INFO	Listening on 127.0.0.1:37839
+1659954616532	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52381" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevUVTuu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659954617402	Marionette	INFO	Marionette enabled
+1659954617406	Marionette	INFO	Listening on port 40241
+WebDriver BiDi listening on ws://localhost:52381
+Read port: 40241
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659954617790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevUVTuu/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52381/devtools/browser/cb541236-0603-412d-9da8-e663c1762b91
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+1659954682025	Marionette	INFO	Stopped listening on port 40241
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1659975468237	geckodriver	INFO	Listening on 127.0.0.1:50443
+1659975468244	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50993" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBboIJs"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659975469435	Marionette	INFO	Marionette enabled
+1659975469440	Marionette	INFO	Listening on port 37155
+Read port: 37155
+WebDriver BiDi listening on ws://localhost:50993
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659975469810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBboIJs/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50993/devtools/browser/4999760d-f0b0-4d10-978d-11648272091f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659975712384	geckodriver	INFO	Listening on 127.0.0.1:57125
+1659975712392	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43397" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileq0FYAL"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659975713293	Marionette	INFO	Marionette enabled
+1659975713297	Marionette	INFO	Listening on port 42587
+WebDriver BiDi listening on ws://localhost:43397
+Read port: 42587
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659975713674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileq0FYAL/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:43397/devtools/browser/0245c023-3c1d-4626-b1a4-dfbca06791e7
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659975822250	geckodriver	INFO	Listening on 127.0.0.1:46201
+1659975822258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47903" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesBOLxT"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659975823344	Marionette	INFO	Marionette enabled
+1659975823348	Marionette	INFO	Listening on port 43871
+WebDriver BiDi listening on ws://localhost:47903
+Read port: 43871
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659975823684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesBOLxT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47903/devtools/browser/56baca11-5d57-495c-b38f-7d54c7051e6a
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659975829510	Marionette	INFO	Stopped listening on port 43965
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+1659975888562	Marionette	INFO	Stopped listening on port 43871
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1659976320470	geckodriver	INFO	Listening on 127.0.0.1:37543
+1659976320475	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56175" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejszIWE"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659976321349	Marionette	INFO	Marionette enabled
+1659976321353	Marionette	INFO	Listening on port 35529
+WebDriver BiDi listening on ws://localhost:56175
+Read port: 35529
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659976321732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejszIWE/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56175/devtools/browser/2b1dd8a9-cb63-4cce-85d9-97a744889761
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+1659976380647	Marionette	INFO	Stopped listening on port 35529
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660487210875	geckodriver	INFO	Listening on 127.0.0.1:37331
+1660487211380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerYBDDI"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660487212947	Marionette	INFO	Marionette enabled
+1660487212959	Marionette	INFO	Listening on port 41331
+WebDriver BiDi listening on ws://localhost:40531
+Read port: 41331
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660487213401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerYBDDI/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40531/devtools/browser/8e3b42b7-b22f-4596-8738-f96a05fc90f5
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+JavaScript error: https://www.gstatic.com/recaptcha/releases/mq0-U1BHZ5YTcoDC-CvsLPNc/recaptcha__en.js, line 780: SecurityError: Permission denied to access property "a-23nwyh2clf05" on cross-origin object
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+1660487270197	Marionette	INFO	Stopped listening on port 41331
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660487420447	geckodriver	INFO	Listening on 127.0.0.1:40001
+1660487420455	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44601" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEh7Nk2"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660487421500	Marionette	INFO	Marionette enabled
+1660487421506	Marionette	INFO	Listening on port 45053
+WebDriver BiDi listening on ws://localhost:44601
+Read port: 45053
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660487476792	geckodriver	INFO	Listening on 127.0.0.1:36189
+1660487476797	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoSjIxs"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660487477721	Marionette	INFO	Marionette enabled
+1660487477726	Marionette	INFO	Listening on port 42449
+WebDriver BiDi listening on ws://localhost:33871
+Read port: 42449
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660487478106	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoSjIxs/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33871/devtools/browser/6621f962-edc2-4c89-b0ca-028a29b4e48a
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+1660487551412	geckodriver	INFO	Listening on 127.0.0.1:48615
+1660487551416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56961" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileayhZZv"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660487552265	Marionette	INFO	Marionette enabled
+1660487552271	Marionette	INFO	Listening on port 33061
+WebDriver BiDi listening on ws://localhost:56961
+Read port: 33061
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660487552637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileayhZZv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56961/devtools/browser/ae0f7c32-67e9-40e6-9e04-888b713052fc
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660487562973	Marionette	INFO	Stopped listening on port 42449
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+1660487601873	Marionette	INFO	Stopped listening on port 33061
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660487652716	geckodriver	INFO	Listening on 127.0.0.1:33847
+1660487652721	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41025" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileabsMps"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660487653554	Marionette	INFO	Marionette enabled
+1660487653558	Marionette	INFO	Listening on port 41577
+WebDriver BiDi listening on ws://localhost:41025
+Read port: 41577
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660487653913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileabsMps/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41025/devtools/browser/27cc1168-5f2a-4a23-ab00-4a91956ba9a3
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://siga.marcacaodeatendimento.pt"
+1660487718948	Marionette	INFO	Stopped listening on port 41577
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
